@@ -3,7 +3,7 @@
 
 Fundamentos de Circuitos Electricos
 
-Tarea Nº4
+Tarea Nº7
 
 Alumno: Guano Victor
 
@@ -13,7 +13,7 @@ NRC: 7318
 
 Docente: Ing. Darwin Alulema
 
-Tema: Cap 7 y 8 del libro Principios de circuitos Electricos Thomas L. Floyd Octava edición
+Tema: Cap 13 y 14 del libro Principios de circuitos Electricos Thomas L. Floyd Octava edición
 
 # 1 Objetivos
 
@@ -27,9 +27,15 @@ usando la teoría para la correcta aplicación de los temas en los ejercicios pr
 
 Desarrollar mapas mentales donde se explique los conceptos básicos de cada capítulo.
 
+Definir que es un inductor y como se comporta en un circuito.
+
 Resolver los problemas planteados dentro de cada capítulo.
 
+Definir que es un transformador y como se comporta en un circuito.
+
 Comprender como aplicar los conceptos dentro de los ejercicios prácticos.
+
+Saber resolver problemas tanto del capitulo 13 como del capitulo 14.
 
 # MARCO TEÓRICO (RESUMEN)
 
