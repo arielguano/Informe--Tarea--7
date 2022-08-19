@@ -79,9 +79,11 @@ VIDEO
 
 CONCLUSIONES
 
-Leyendo y comprendiendo previamente los conceptos que se va a utilizar en la resolución de ejercicios nos permite resolverlos de manera más rápida y también nos permite saber como usarlo en la parte práctica.
+Leyendo y comprendiendo previamente en concluido que  saber analizar lo que son conductores en serie y paralelo para que a la hora de resolver los ejercicios no haya error de calculo.los conceptos que se va a utilizar en la resolución de ejercicios nos permite resolverlos de manera más rápida y también nos permite saber como usarlo en la parte práctica.
 
 Los ejercicios resueltos nos permitió prácticar más los conceptos aprendidos y afianzar los conceptos enseñados en clase
+
+En la resolucion del capitulo 12 exisate nuevos componentes los cuales son los capacitores el cual existen fijos como tambien variables en funcion del tiempo.
 
 BIBLIOGRAFÍA
 
