@@ -23,7 +23,7 @@ Resolver problemas utilizando los conocimientos de los capítulos respectivos a 
 
 usando la teoría para la correcta aplicación de los temas en los ejercicios prácticos.
 
-Comprender el funcionamiento y aplicación de los inductores y transformadores dentro de circuitos eléctricos, para así lograr tener una visión clara de los principios
+Abarcar el funcionamiento y aplicación de los inductores y transformadores dentro de circuitos eléctricos, para así lograr tener una visión clara de los principios
 
 de la electricidad y de las distintas formas en que se puede presentar un circuito eléctrico, así como las operaciones necesarias para calcular sus magnitudes y 
 
