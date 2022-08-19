@@ -75,6 +75,16 @@ Comprender como aplicar los conceptos dentro de los ejercicios prácticos.
 
 ![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/DEBER%5EN7-13.png)
 
+VIDEO
 
+CONCLUSIONES
 
+Leyendo y comprendiendo previamente los conceptos que se va a utilizar en la resolución de ejercicios nos permite resolverlos de manera más rápida y también nos permite saber como usarlo en la parte práctica.
+
+Los ejercicios resueltos nos permitió prácticar más los conceptos aprendidos y afianzar los conceptos enseñados en clase
+
+BIBLIOGRAFÍA
+
+THOMAS, F. (2007). Principios de circuitos eléctricos.Octava edición. En T. Floyd, Principios de circuitos eléctricos.Octava edición (págs. 226-333).México: Pearson
+Educación de México, S.A.de C.V.
 
