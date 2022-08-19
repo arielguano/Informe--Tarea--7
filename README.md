@@ -33,7 +33,7 @@ Comprender como aplicar los conceptos dentro de los ejercicios prácticos.
 
 # MARCO TEÓRICO (RESUMEN)
 
-#Capitulo 7
+# Capitulo 7
 
 ![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/mapa%20conceptual-1.png)
 
@@ -41,9 +41,40 @@ Comprender como aplicar los conceptos dentro de los ejercicios prácticos.
 
 ![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/mapa%20conceptual-3.png)
 
-#Capitulo 8
+# Capitulo 8
 
 ![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/mapa%20conceptual-4.png)
 
 ![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/mapa%20conceptual-5.png)
+
+# 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/DEBER%5EN7-01.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/DEBER%5EN7-02.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/DEBER%5EN7-03.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/DEBER%5EN7-04.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/DEBER%5EN7-05.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/DEBER%5EN7-06.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/DEBER%5EN7-07.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/DEBER%5EN7-08.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/DEBER%5EN7-09.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/DEBER%5EN7-10.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/DEBER%5EN7-11.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/DEBER%5EN7-12.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/DEBER%5EN7-13.png)
+
+
+
 
