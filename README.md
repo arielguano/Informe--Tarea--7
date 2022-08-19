@@ -31,13 +31,17 @@ Resolver los problemas planteados dentro de cada capítulo.
 
 Comprender como aplicar los conceptos dentro de los ejercicios prácticos.
 
-MARCO TEÓRICO (RESUMEN)
+# MARCO TEÓRICO (RESUMEN)
+
+#Capitulo 7
 
 ![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/mapa%20conceptual-1.png)
 
 ![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/mapa%20conceptual-2.png)
 
 ![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/mapa%20conceptual-3.png)
+
+#Capitulo 8
 
 ![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/mapa%20conceptual-4.png)
 
