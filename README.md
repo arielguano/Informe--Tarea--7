@@ -15,7 +15,7 @@ Docente: Ing. Darwin Alulema
 
 Tema: Cap 7 y 8 del libro Principios de circuitos Electricos Thomas L. Floyd Octava edición
 
-# Objetivos
+# 1 Objetivos
 
 1.1 Objetivo General
 
@@ -30,3 +30,16 @@ Desarrollar mapas mentales donde se explique los conceptos básicos de cada cap�
 Resolver los problemas planteados dentro de cada capítulo.
 
 Comprender como aplicar los conceptos dentro de los ejercicios prácticos.
+
+MARCO TEÓRICO (RESUMEN)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/mapa%20conceptual-1.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/mapa%20conceptual-2.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/mapa%20conceptual-3.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/mapa%20conceptual-4.png)
+
+![image](https://github.com/arielguano/Informe--Tarea--7/blob/main/mapa%20conceptual-5.png)
+
